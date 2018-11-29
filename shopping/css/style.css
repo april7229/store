@@ -1,6 +1,6 @@
 #wrapper{font-family:tahoma;}
 
-.container{width:90%;
+.container{width:95%;
 margin:0 auto;
 }
 #subheader{
@@ -129,4 +129,16 @@ nav a {
 nav a:hover{
     color:#000;
     transition:all .7s ease;
+}
+#heading-block{
+    width:100%;
+    height: auto;
+    float: left;
+    color:#1aaa1a;
+    font-size:22px;
+}
+#heading-block h2{
+    line-height:35px;
+    border-left:20px solid #1aaa1a;
+    padding-left:10px; 
 }
